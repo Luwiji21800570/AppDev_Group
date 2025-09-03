@@ -1,5 +1,5 @@
 INITIAL COMMIT
-commit
+Commit
 This is a commit
 Testing
 
