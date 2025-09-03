@@ -5,3 +5,6 @@ Testing
 
 
 Fixed Login
+
+
+Fixed User Registration
